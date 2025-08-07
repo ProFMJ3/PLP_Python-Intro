@@ -22,6 +22,8 @@ my_list.sort()
 # 7. Trouver et afficher l'index de la valeur 30
 index_30 = my_list.index(30)
 
-# Affichage des résultats
+# Affichage des résultats et fin du programme
 print("Liste finale :", my_list)
 print("Index de la valeur 30 :", index_30)
+
+
